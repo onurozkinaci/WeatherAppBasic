@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cities_array">
+        <item>No Selection</item>
+        <item>Istanbul</item>
+        <item>London</item>
+        <item>New York</item>
+        <item>Ankara</item>
+        <item>New Jersey</item>
+        <item>Berlin</item>
+        <item>Dubai</item>
+        <item>Doha</item>
+    </string-array>
+</resources>
